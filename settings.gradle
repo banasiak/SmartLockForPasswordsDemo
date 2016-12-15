@@ -1,1 +1,1 @@
-include ':alpha', ':bravo', ':authenticator', ':charlie'
+include ':alpha', ':bravo'
